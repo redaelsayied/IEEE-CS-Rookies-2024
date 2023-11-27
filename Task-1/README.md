@@ -1,8 +1,7 @@
-# Task Solution
+# Task 1 Solution
 
 This folder contains solutions to various problems from the Codeforces platform, specifically from the contest [link to the group](https://codeforces.com/group/MWSDmqGsZm/contest/219774).
 
-## Task 1
 
 ### Smallest pair
 - Problem Link: [Smallest pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
