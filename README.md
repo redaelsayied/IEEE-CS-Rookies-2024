@@ -11,7 +11,7 @@ Each Task has its own folder containing a README file with details about the tas
 <hr>
 
 ## 1️⃣ Task 1
-- [README file for this Task](https://github.com/HalemoGPA/Learn-CSS/tree/main/week1)
+- [README file for this Task](https://github.com/redaelsayied/IEEE-CS-Rookies-2024/tree/main/Task-1#readme)
 
 
 
