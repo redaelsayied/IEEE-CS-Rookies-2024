@@ -6,7 +6,8 @@
   <div align="center"><br><b>IEEE CS Zagazig Student Chapter</b></div>
 </a><br>
 
-##  Usage
+## 📌 Usage
+This repository contains my solutions to Tasks for <b>IEEE-CS-Rookies-2024</b>, organized into separate folders for each task.<br>
 Each Task has its own folder containing a README file with details about the task  and its corresponding solution file or code snippet. You can navigate through the folders or use the provided links to access the solutions.
 <hr>
 
