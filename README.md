@@ -17,7 +17,7 @@ Each Task has its own folder containing a README file with details about the tas
 - [README file for this Task](https://github.com/redaelsayied/IEEE-CS-Rookies-2024/tree/main/Task-1#readme)
 ---
 ## 2️⃣ Task 2
-- [README file for this Task](https://github.com/redaelsayied/IEEE-CS-Rookies-2024/tree/main/Task-1#readme)
+- [README file for this Task](https://github.com/redaelsayied/IEEE-CS-Rookies-2024/tree/main/Task-2#readme)
 
 
 				
