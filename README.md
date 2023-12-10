@@ -1,9 +1,9 @@
 # IEEE-CS-Rookies-2024
 <a href="https://www.facebook.com/IEEE.CS.ZSC">
   <div align="center">
-    <img src="https://i.ibb.co/Sycn6Nj/271991617-1258131218020558-1232609697017949374-n.jpg" width="1000" alt="IEEE CS Logo">
+    <img src="https://i.ibb.co/BT1r1Yj/IEEE-CS-White.png" width="250" alt="IEEE CS Logo">
   </div>
-  <div align="center"><br><b>IEEE CS Zagazig Student Chapter</b></div>
+  <div align="center"><b>IEEE CS Zagazig Student Chapter</b></div>
 </a><br>
 
 
