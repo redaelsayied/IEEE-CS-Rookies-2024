@@ -1,6 +1,6 @@
 # Task 2 Solution
 
-This folder contains solutions to various problems from the Codeforces platform, specifically from the contest [link to the group](https://codeforces.com/group/MWSDmqGsZm/contest/219774).
+This folder contains solutions to various problems from the Codeforces platform, specifically from the contest [link to the group](https://codeforces.com/group/MWSDmqGsZm/contests).
 
 ## 📌Problems and their Solutions
 
